@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First name...</string>
+    <string name="last_name">Last name...</string>
+    <string name="password">Password...</string>
+    <string name="confirm_password">Confirm password...</string>
+    <string name="email_address">Email address...</string>
+    <string name="username">Username...</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="new_note">New Note</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="profile">Profile</string>
+    <string name="save_note">Save Note</string>
+    <string name="share">Share</string>
+    <string name="send_note">Send note via</string>
+    <string name="delete_note">Delete Note</string>
+</resources>
